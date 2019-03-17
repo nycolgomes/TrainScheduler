@@ -2,12 +2,12 @@
 // --------------------------------------------------------------------------------------------------
 // // Initialize Firebase
 // var config = {
-//     apiKey: "AIzaSyCKM1ma3uvpBmwweUkTEw7sqYmJf6q2IG0",
-//     authDomain: "employee-data-60276.firebaseapp.com",
-//     databaseURL: "https://employee-data-60276.firebaseio.com",
-//     projectId: "employee-data-60276",
-//     storageBucket: "employee-data-60276.appspot.com",
-//     messagingSenderId: "1091434908933"
+//     apiKey: 
+//     authDomain: 
+//     databaseURL: 
+//     projectId: 
+//     storageBucket:
+//     messagingSenderId:
 // };
 // firebase.initializeApp(config);
 
